@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1170px;
+    margin: 0 auto;
+}
+nav {
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav ul {
+    display: flex;
+    list-style: none;
+    width: 280px;
+    justify-content: space-between;
+}
+nav ul li a {
+    color: #37447e;
+    text-decoration: none;
+}
+.logo {
+    text-align: center;
+}
+.logo h1 {
+    color: #37447e;
+    font-size: 32px;
+}
+.nav-btn a {
+    color: #37447e;
+    text-decoration: none;
+    display:  inline-block;
+    font-size: 18px;
+}
+.header-info {
+    margin-top: 130px;
+    margin-left: 270px;
+    width: 630px;
+}
+.header-title h1 {
+    color: #37447e;
+    font-size: 22px;
+}
+.header-content h2 {
+    color: #37447e;
+    font-size: 60px;
+}
+.header-equipment a {
+    color: #37447e;
+    font-size: 20px;
+    text-decoration: none;
+}

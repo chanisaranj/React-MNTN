@@ -1,0 +1,108 @@
+.container-con {
+    background: #fff;
+    margin-top: 260px;
+    margin-left: 100px;
+    width: 970px;
+    height: 2030px;
+}
+.get {
+    height: 480px;
+    display: flex;
+    justify-content: space-between;
+}
+.get-info {
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 420px;
+}
+.get-title h1 {
+    color: #37447e;
+    font-size: 22px;
+}
+.get-con h2 {
+    color: #37447e;
+    font-size: 40px;
+}
+.get-p p {
+    color: #37447e;
+    font-size: 16px;
+}
+.get-equip a {
+    color: #37447e;
+    font-size: 20px;
+    text-decoration: none;
+}
+.get-img {
+    height: 480px;
+}
+.get-img img {
+    height: 100%;
+}
+.hiking {
+    margin-top: 130px;
+    height: 480px;
+    display: flex;
+    justify-content: space-between;
+}
+.hiking-img {
+    height: 480px;
+}
+.hiking-img img {
+    height: 100%;
+}
+.hiking-info {
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 420px;
+}
+.hiking-title h1 {
+    color: #37447e;
+    font-size: 22px;
+}
+.hiking-con h2 {
+    color: #37447e;
+    font-size: 40px;
+}
+.hiking-p p {
+    color: #37447e;
+    font-size: 16px;
+}
+.hiking-equip a {
+    color: #37447e;
+    font-size: 20px;
+    text-decoration: none;
+}
+.wyg {
+    margin-top: 130px;
+    height: 480px;
+    display: flex;
+    justify-content: space-between;
+}
+.wyg-info {
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 420px;
+}
+.wyg-title h1 {
+    color: #37447e;
+    font-size: 22px;
+}
+.wyg-con h2 {
+    color: #37447e;
+    font-size: 40px;
+}
+.wyg-p p {
+    color: #37447e;
+    font-size: 16px;
+}
+.wyg-equip a {
+    color: #37447e;
+    font-size: 20px;
+    text-decoration: none;
+}
+.wyg-img {
+    height: 480px;
+}
+.wyg-img img {
+    height: 100%;
+}
